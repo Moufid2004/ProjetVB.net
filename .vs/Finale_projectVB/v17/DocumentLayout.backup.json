@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ventes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ventes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ventes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ventes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\produits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:produits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ventes.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ventes.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\produits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:produits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ressources\\classes\\vent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ressources\\classes\\vent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ressources\\classes\\prod.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ressources\\classes\\prod.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\ressources\\classes\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:ressources\\classes\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\menu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:menu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:login.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|c:\\users\\hp\\source\\repos\\finale_projectvb\\finale_projectvb.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9CF6B07B-FBDB-42D8-A0FD-050B9F10DBF7}|Finale_projectVB.vbproj|solutionrelative:finale_projectvb.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-28T11:54:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.vb [Conception]",
+              "RelativeToolTip": "Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-28T11:32:07.939Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventes.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.vb",
+              "RelativeDocumentMoniker": "Ventes.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.vb [Conception]",
+              "RelativeToolTip": "Ventes.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T00:39:57.648Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produits.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Produits.vb",
+              "RelativeDocumentMoniker": "Produits.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Produits.vb [Conception]",
+              "RelativeToolTip": "Produits.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T00:28:42.231Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ventes.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.vb",
+              "RelativeDocumentMoniker": "Ventes.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.vb",
+              "RelativeToolTip": "Ventes.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwNQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T00:49:24.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-28T12:12:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.vb",
+              "RelativeDocumentMoniker": "Menu.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.vb [Conception]",
+              "RelativeToolTip": "Menu.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-17T22:14:11.362Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ventes.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.Designer.vb",
+              "RelativeDocumentMoniker": "Ventes.Designer.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ventes.Designer.vb",
+              "RelativeToolTip": "Ventes.Designer.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-24T00:03:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.vb [Conception]",
+              "RelativeToolTip": "Login.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-15T13:23:48.041Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.vb",
+              "RelativeDocumentMoniker": "Menu.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.vb",
+              "RelativeToolTip": "Menu.vb",
+              "ViewState": "AgIAALoAAACAMDMzMzM/wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-19T12:47:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produits.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Produits.vb",
+              "RelativeDocumentMoniker": "Produits.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Produits.vb",
+              "RelativeToolTip": "Produits.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-23T01:38:47.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vent.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Vent.vb",
+              "RelativeDocumentMoniker": "Ressources\\Classes\\Vent.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Vent.vb",
+              "RelativeToolTip": "Ressources\\Classes\\Vent.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-23T23:13:49.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prod.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Prod.vb",
+              "RelativeDocumentMoniker": "Ressources\\Classes\\Prod.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Prod.vb",
+              "RelativeToolTip": "Ressources\\Classes\\Prod.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-23T20:28:16.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clients.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Clients.vb",
+              "RelativeDocumentMoniker": "Ressources\\Classes\\Clients.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Ressources\\Classes\\Clients.vb",
+              "RelativeToolTip": "Ressources\\Classes\\Clients.vb",
+              "ViewState": "AgIAAD0AAADQxczMzEwWwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-22T14:53:52.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.Designer.vb",
+              "RelativeDocumentMoniker": "Menu.Designer.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Menu.Designer.vb",
+              "RelativeToolTip": "Menu.Designer.vb",
+              "ViewState": "AgIAAJUAAAAAvszMzMwiwFoBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T17:11:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-15T13:41:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.Designer.vb",
+              "RelativeDocumentMoniker": "Login.Designer.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Login.Designer.vb",
+              "RelativeToolTip": "Login.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-15T13:17:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Finale_projectVB",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Finale_projectVB.vbproj",
+              "RelativeDocumentMoniker": "Finale_projectVB.vbproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Finale_projectVB\\Finale_projectVB.vbproj",
+              "RelativeToolTip": "Finale_projectVB.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-21T23:23:25.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
